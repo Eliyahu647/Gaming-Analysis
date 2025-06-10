@@ -93,16 +93,18 @@ The project includes four key dashboards, located in the `Dashboards/` directory
 
 ### 1. Executive Dashboard 👔
 * Provides a high-level overview of key metrics.
-  ![Alt text for the image](Dashboards/ExecutiveDashboard)
+  ![Executive Dashboard](Dashboards/ExecutiveDashboard.png)
 
 ### 2. Monetization & Purchase Dashboard 💸
 * Focuses on revenue and purchase-related metrics.
+![Monetization & Purchase Dashboard](Dashboards/Monetization&PurchaseDashboard.jpg)
+
 ### 3. Retention & Engagement Dashboard 🤝
 * Highlights player retention and engagement metrics.
-
+![Retention & Engagement Dashboard](Dashboards/Retention&Engagement.jpg)
 ### 4. User Experience Dashboard ✨
 * Provides insights into player experience and progression.
-
+![User Experience Dashboard](Dashboards/UserExperienceDashboard.jpg)
 ## Setup and Usage 🛠️
 
 To set up and run this project:
