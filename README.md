@@ -93,7 +93,7 @@ The project includes four key dashboards, located in the `Dashboards/` directory
 
 ### 1. Executive Dashboard 👔
 * Provides a high-level overview of key metrics.
-  ![Executive Dashboard](Dashboards/ExecutiveDashboard.png)
+  ![Executive Dashboard](Dashboards/ExecutiveDashboard)
 
 ### 2. Monetization & Purchase Dashboard 💸
 * Focuses on revenue and purchase-related metrics.
