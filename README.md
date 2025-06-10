@@ -98,14 +98,17 @@ The project includes four key dashboards, located in the `Dashboards/` directory
 
 ### 2. Monetization & Purchase Dashboard 💸
 * Focuses on revenue and purchase-related metrics.
-![Monetization & Purchase Dashboard](Dashboards/Monetization&PurchaseDashboard.jpg)
+![Monetization & Purchase Dashboard](Dashboards/%D7%A6%D7%99%D7%9C%D7%95%D7%9D%20%D7%9E%D7%A1%D7%9A%202025-06-10%20121153.png)
+
 
 ### 3. Retention & Engagement Dashboard 🤝
 * Highlights player retention and engagement metrics.
-![Retention & Engagement Dashboard](Dashboards/Retention&Engagement.jpg)
+![Retention & Engagement Dashboard](Dashboards/%D7%A6%D7%99%D7%9C%D7%95%D7%9D%20%D7%9E%D7%A1%D7%9A%202025-06-10%20121141.png)
+
 ### 4. User Experience Dashboard ✨
 * Provides insights into player experience and progression.
-![User Experience Dashboard](Dashboards/UserExperienceDashboard.jpg)
+![User Experience Dashboard](Dashboards/%D7%A6%D7%99%D7%9C%D7%95%D7%9D%20%D7%9E%D7%A1%D7%9A%202025-06-10%20121028.png)
+
 ## Setup and Usage 🛠️
 
 To set up and run this project:
